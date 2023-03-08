@@ -4,6 +4,8 @@ spring:
       client:
         registration:
           google:
-            client-id: <PLACEHOLDER>
-            client-secret: <PLACEHOLDER>
-            redirect-uri: "{baseUrl}/oauth2/callback"
+            client-id: 851941661103-021vupdg1mupdtifoo0833p4pvltekd4.apps.googleusercontent.com
+            client-secret: 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
+
+server:
+  forward-headers-strategy: native
