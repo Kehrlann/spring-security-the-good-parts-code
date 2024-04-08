@@ -1,3 +1,13 @@
+# ⚠️ Archival notice
+
+This repository has been archived. It is kept around so that the link stays alive.
+
+For newer versions of this content, please visit
+[Kehrlann/spring-security-the-good-parts](https://github.com/Kehrlann/spring-security-the-good-parts).
+
+---
+
+
 # spring-security-the-good-parts-code
 
 Code for "Spring Security: The Good Parts"
